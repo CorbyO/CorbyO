@@ -1,7 +1,15 @@
 # 👋 I'm Corby O
-> ✍ Current job: Unity Programmer
+
+> ✍ Current works
+> - Unity Programmer
+> - UE4 Study
+
 > 🤝 How to reach me
 > - 📧 CorbyO@protonmail.com
+
+> 🔗 Other pages
+> - https://gitlab.com/yunwolp huge data only (ue4)
+> - https://yunwolblog.tistory.com
 
 # ⚔ Skills
 
