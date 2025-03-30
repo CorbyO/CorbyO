@@ -8,8 +8,6 @@
 > - 📧 CorbyO@protonmail.com
 
 > 🔗 Other pages
-> - https://gitlab.com/yunwolp huge data only (ue4)
-> - https://yunwolblog.tistory.com
 > - https://gist.github.com/CorbyO
 
 # ⚔ Skills
